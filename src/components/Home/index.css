@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bg-cont {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background-image: linear-gradient(to bottom, #2b2c49, #b5b9ff);
+  padding: 100px;
+  border-radius: 10px;
+  text-align: center;
+}
